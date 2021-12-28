@@ -14,8 +14,6 @@
                 * Delivery Management
                 * ITIL
                 * Agile
-           
-
   
             ###Work experience
                 * Euroset
