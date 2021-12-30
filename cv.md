@@ -1,4 +1,4 @@
-! [Here my image will be posted] (img src="/me.png" alt="My image" class="avatar")
+! [Here my image will be posted] (img src="me.png" alt="My image" class="avatar")
      
             #Sergei Polozov
             _EPAM SDM_
