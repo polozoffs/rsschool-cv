@@ -33,7 +33,7 @@ body{
     margin: 10px 15px;
 }
 
-@media (min-width: 500px){
+@media (min-width: 700px){
     .avatar{
         
         width: 200px;
@@ -97,11 +97,9 @@ color: rgb(52, 52, 87);
     font: 100;
     
 }
-.flexcontainer{
-    
-    display: flex;
-    
-    
+
+.flexcontainer{  
+    display: flex; 
 }
 
 }
