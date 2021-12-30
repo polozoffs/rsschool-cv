@@ -83,24 +83,32 @@ body{
 }
 
 .tabledata{
-    width: 70%;
+    width: 50%;
 }
 
 .tabledata td:nth-child(1){
-color: rgb(4, 4, 46);
+color: rgb(52, 52, 87);
 }
 
 .tabledata td:nth-child(2),
 .tabledata td:nth-child(3){
     
-    color: rgb(26, 3, 3);
+    color: rgb(66, 16, 16);
     font: 100;
     
 }
 .flexcontainer{
+    
     display: flex;
-    justify-content: space-center;
-    margin: 15px;
+    
+    
 }
 
+}
+
+.l1,
+.l2,
+.l3,
+.l4{
+    width: 150px;
 }
